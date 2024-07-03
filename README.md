@@ -4,4 +4,4 @@ Phần mềm quản lý nhà thuốc - Bài tập lớn môn Lập tri�
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1SA55tOvk_ZlGiyILM3tthJUB5Xyhstp8/view?usp=sharing)
+![image](https://github.com/quangdatdev/Pharmaceutical-Management/assets/88234738/bea9ec8b-3289-4e3a-854d-36ec1100e0c0)
